@@ -1,0 +1,15 @@
+# Ignore node_modules folders
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# Other files to ignore
+.DS_Store
